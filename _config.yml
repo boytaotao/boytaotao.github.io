@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-#title: taotao
+title: taotao
 subtitle:
 description:
 author: John Doe
@@ -76,7 +76,7 @@ theme: jacman
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-  deploy:
+deploy:
 type: git
 repo: https://github.com/boytaotao/boytaotao.github.io.git
 branch: master
