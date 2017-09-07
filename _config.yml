@@ -7,7 +7,7 @@ title: taotao
 subtitle:
 description:
 author: taotao
-language:
+language: zh-Hans
 timezone:
 
 # URL
@@ -73,6 +73,7 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: next
+scheme: Pisces
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
